@@ -1,0 +1,578 @@
+{
+  "channel": {
+    "id": "channel",
+    "name": "LongFast Channel 0",
+    "type": "channel",
+    "last_message": "Test",
+    "last_time": "18:00:58",
+    "unread": 0
+  },
+  "!067a40fa": {
+    "id": "!067a40fa",
+    "name": "Flint Base",
+    "type": "dm",
+    "last_message": "Hello",
+    "last_time": "11:36",
+    "unread": 0
+  },
+  "!1300faf0": {
+    "id": "!1300faf0",
+    "name": "Orion9 mobil",
+    "type": "dm",
+    "last_message": "👍",
+    "last_time": "15:07:19",
+    "unread": 0
+  },
+  "!0e8b3cf6": {
+    "id": "!0e8b3cf6",
+    "name": "StS_Erl_fix",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!51fbf9c": {
+    "id": "!51fbf9c",
+    "name": "Uttenreuth-MGS13-B",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!1paa51c": {
+    "id": "!1paa51c",
+    "name": "Meshtastic a51c",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!0a809218": {
+    "id": "!0a809218",
+    "name": "RetroMobil",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!9ea0c0fc": {
+    "id": "!9ea0c0fc",
+    "name": "BirgitsPaperMesh",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!7e9f4f33": {
+    "id": "!7e9f4f33",
+    "name": "Meshstatic 4f33",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!f68f9e94": {
+    "id": "!f68f9e94",
+    "name": "ThinkNode M5",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!04c67058": {
+    "id": "!04c67058",
+    "name": "HardTekkER",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!f6cd2588": {
+    "id": "!f6cd2588",
+    "name": "Meshtastic 2588",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!a039128c": {
+    "id": "!a039128c",
+    "name": "Meshtastic 128c",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!1ba58668": {
+    "id": "!1ba58668",
+    "name": "Meshtastic 8668",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!9eeb16e8": {
+    "id": "!9eeb16e8",
+    "name": "Erlangen WOK1",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!ba6a6a68": {
+    "id": "!ba6a6a68",
+    "name": "Erlangen, WOK0 Dach, not monitored",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!1328017c": {
+    "id": "!1328017c",
+    "name": "TecX",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!6eb0f769": {
+    "id": "!6eb0f769",
+    "name": "ER-INNENSTADT-DACH",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!c6902edf": {
+    "id": "!c6902edf",
+    "name": "DFS Node 1",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!02eac644": {
+    "id": "!02eac644",
+    "name": "LeniBeni",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!297ae295": {
+    "id": "!297ae295",
+    "name": "Oststadt ☀️🔋",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!66e715a0": {
+    "id": "!66e715a0",
+    "name": "AN_JB",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!435a8c8c": {
+    "id": "!435a8c8c",
+    "name": "GELBER BERG SAMMENHEIM 📵 🔋 🌞",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!fc7ab812": {
+    "id": "!fc7ab812",
+    "name": "Lenny Home ☀️🔋",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!25a7794c": {
+    "id": "!25a7794c",
+    "name": "Ewok",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!47768046": {
+    "id": "!47768046",
+    "name": "Erlangen, WOK0 Dach, not monitored",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!433c1698": {
+    "id": "!433c1698",
+    "name": "ER HeltecV3",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!1e9ab086": {
+    "id": "!1e9ab086",
+    "name": "Meshtastic b086",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!9ea2083c": {
+    "id": "!9ea2083c",
+    "name": "MischastikBDF",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!d5617b2f": {
+    "id": "!d5617b2f",
+    "name": "BirgitsPaperMesh",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!b2a70330": {
+    "id": "!b2a70330",
+    "name": "Flint_Echo",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!1f9fefd8": {
+    "id": "!1f9fefd8",
+    "name": "Blœdler BNE",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!db528ba8": {
+    "id": "!db528ba8",
+    "name": "Meshtastic 8ba8",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!3b46b984": {
+    "id": "!3b46b984",
+    "name": "FMG Kalchreuth-Bayern 🕊",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!9e777ad4": {
+    "id": "!9e777ad4",
+    "name": "NBG-Solar-1",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!1c54bf9c": {
+    "id": "!1c54bf9c",
+    "name": "MeshtasticJP2",
+    "type": "dm",
+    "last_message": "Sorry, 6 hops nicht 2, ori9",
+    "last_time": "14:54:12",
+    "unread": 0
+  },
+  "!97057ff4": {
+    "id": "!97057ff4",
+    "name": "EKT VME290",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!634d4f7a": {
+    "id": "!634d4f7a",
+    "name": "Neogoth Frankencampus",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!f206eff5": {
+    "id": "!f206eff5",
+    "name": "DFS Node 1",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!f6545d72": {
+    "id": "!f6545d72",
+    "name": "EH_Solar",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!2341a7eb": {
+    "id": "!2341a7eb",
+    "name": "tsp_de_nnro ☀🔋",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!b2d44833": {
+    "id": "!b2d44833",
+    "name": "Lenny Sensor Outdoor",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!2de2de3d": {
+    "id": "!2de2de3d",
+    "name": "sUse",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!6f5194a8": {
+    "id": "!6f5194a8",
+    "name": "13HN090 ⛰️🛴🥾",
+    "type": "dm",
+    "last_message": "Endlich Feierabend",
+    "last_time": "16:01:05",
+    "unread": 0
+  },
+  "!db2ac6dc": {
+    "id": "!db2ac6dc",
+    "name": "Meshtastic c6dc",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!8ac36cb2": {
+    "id": "!8ac36cb2",
+    "name": "Woof Solar",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!e2e4f79c": {
+    "id": "!e2e4f79c",
+    "name": "mArv_LF",
+    "type": "dm",
+    "last_message": "2️⃣",
+    "last_time": "15:30:34",
+    "unread": 0
+  },
+  "!0a23be33": {
+    "id": "!0a23be33",
+    "name": "Meshtastic be33",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!51fbff9c": {
+    "id": "!51fbff9c",
+    "name": "Uttenreuth-MGS13-Base-1da4",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!c0c32e90": {
+    "id": "!c0c32e90",
+    "name": "Meshtastic 2e90",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!8abea1ad": {
+    "id": "!8abea1ad",
+    "name": "Pat Home",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!747497c1": {
+    "id": "!747497c1",
+    "name": "DFS Node 1",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!433bf8ac": {
+    "id": "!433bf8ac",
+    "name": "schadsi",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!19ad43a5": {
+    "id": "!19ad43a5",
+    "name": "Lenny Sensor Outdoor",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!506c6213": {
+    "id": "!506c6213",
+    "name": "Blœdler BNE",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!d4334334": {
+    "id": "!d4334334",
+    "name": "Meshtastic 4334",
+    "type": "dm",
+    "last_message": "2️⃣",
+    "last_time": "14:50:05",
+    "unread": 0
+  },
+  "!6c7412c0": {
+    "id": "!6c7412c0",
+    "name": "Lenny Home ☀️🔋",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!f0898cb5": {
+    "id": "!f0898cb5",
+    "name": "BiKtUs turbo Mobile Gerät",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!66a9a8b1": {
+    "id": "!66a9a8b1",
+    "name": "Biham Theta Pegasi",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!f1bbe410": {
+    "id": "!f1bbe410",
+    "name": "SibER",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!9e7882d4": {
+    "id": "!9e7882d4",
+    "name": "Tequila Node 2",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!433efd18": {
+    "id": "!433efd18",
+    "name": "Meshtastic fd18",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!43b7a5b4": {
+    "id": "!43b7a5b4",
+    "name": "Meshtastic a5b4",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!b0f14d2a": {
+    "id": "!b0f14d2a",
+    "name": "Flint_Echo",
+    "type": "dm",
+    "last_message": "Direct to Elektroniker",
+    "last_time": "17:38:41",
+    "unread": 0
+  },
+  "!6c73f1a8": {
+    "id": "!6c73f1a8",
+    "name": "Erlangen 13th floor",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!009e95f4": {
+    "id": "!009e95f4",
+    "name": "Meshtastic 95f4",
+    "type": "dm",
+    "last_message": "👍",
+    "last_time": "15:43:03",
+    "unread": 0
+  },
+  "!756f9960": {
+    "id": "!756f9960",
+    "name": "Flint TAP2",
+    "type": "dm",
+    "last_message": "T",
+    "last_time": "17:50:19",
+    "unread": 0
+  },
+  "!433dbbb4": {
+    "id": "!433dbbb4",
+    "name": "ER HeltecV3",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!25e8b2d0": {
+    "id": "!25e8b2d0",
+    "name": "MeshtasticJP2",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!1fa065f0": {
+    "id": "!1fa065f0",
+    "name": "Elektroniker",
+    "type": "dm",
+    "last_message": "Direct to LongFast",
+    "last_time": "17:48:57",
+    "unread": 0
+  },
+  "!da635f50": {
+    "id": "!da635f50",
+    "name": "DFS Node 1",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!9e77f6e8": {
+    "id": "!9e77f6e8",
+    "name": "Tequila Node",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  }
+}

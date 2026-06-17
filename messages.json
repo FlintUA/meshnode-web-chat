@@ -1,648 +1,262 @@
 [
   {
     "kind": "rx",
-    "sender": "Elektroniker",
-    "text": "Test",
-    "time": "22:10:01"
-  },
-  {
-    "kind": "rx",
-    "sender": "Elektroniker",
-    "text": "Test2",
-    "time": "22:10:20"
-  },
-  {
-    "kind": "rx",
-    "sender": "Elektroniker",
-    "text": "Test3",
-    "time": "22:12:58"
-  },
-  {
-    "kind": "rx",
-    "sender": "Elektroniker",
-    "text": "Test4",
-    "time": "22:13:01"
-  },
-  {
-    "kind": "rx",
-    "sender": "Elektroniker",
-    "text": "Test",
-    "time": "22:22:34"
-  },
-  {
-    "kind": "rx",
-    "sender": "Flint TAP2",
-    "text": "Test",
-    "time": "22:24:26"
-  },
-  {
-    "kind": "rx",
-    "sender": "!1300faf0",
-    "text": "1️⃣",
-    "time": "22:29:11"
-  },
-  {
-    "kind": "rx",
-    "sender": "!1300faf0",
-    "text": "Android App wurde auf V 2.7.14 aktualisiert.",
-    "time": "22:29:11"
-  },
-  {
-    "kind": "rx",
-    "sender": "Elektroniker",
-    "text": "Test",
-    "time": "06:46:26"
-  },
-  {
-    "kind": "rx",
-    "sender": "!1300faf0",
-    "text": "2️⃣",
-    "time": "06:50:14"
-  },
-  {
-    "kind": "rx",
-    "sender": "!f68f9e94",
-    "text": "Ladestation Moorenbrunnen",
-    "time": "06:50:44"
-  },
-  {
-    "kind": "rx",
-    "sender": "!1300faf0",
-    "text": "6️⃣",
-    "time": "06:52:21"
-  },
-  {
-    "kind": "rx",
-    "sender": "Elektroniker",
-    "text": "Test2",
-    "time": "06:53:48"
-  },
-  {
-    "kind": "rx",
-    "sender": "Flint TAP2",
-    "text": "test",
-    "time": "06:57:33"
-  },
-  {
-    "kind": "rx",
-    "sender": "!1ba58668",
-    "text": "👍🏻",
-    "time": "06:58:06"
-  },
-  {
-    "kind": "rx",
-    "sender": "Elektroniker",
-    "text": "Guten Morgen ☕️",
-    "time": "07:03:04"
-  },
-  {
-    "kind": "rx",
-    "sender": "!04c67058",
-    "text": "Moin und Grüße aus Erlangen 🙋🏼\\u200d♂️",
-    "time": "07:12:55"
+    "sender": "Flint Base",
+    "node_id": "!067a40fa",
+    "text": "Hello",
+    "time": "11:36",
+    "chat_id": "!067a40fa",
+    "chat_type": "dm",
+    "chat_name": "Flint Base"
   },
   {
     "kind": "me",
-    "sender": "Flint Base",
-    "text": "Auf meiner Meshtastic-Node „Flint Base“ können Sie die aktuellen Werte und Veränderungen von Temperatur, Luftfeuchtigkeit und Luftdruck in Erlangen (Stadtzentrum, nahe dem Rathausplatz) verfolgen.",
-    "time": "07:40:54"
+    "sender": "Flint Base → Elektroniker",
+    "node_id": "!067a40fa",
+    "text": "Test Direct",
+    "time": "12:20:48",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
   },
   {
     "kind": "rx",
     "sender": "Orion9 mobil",
-    "text": "👍",
-    "time": "08:05:33"
-  },
-  {
-    "kind": "rx",
-    "sender": "daa792-a0bc",
-    "text": "Wird bestimmt dort genutzt.",
-    "time": "08:29:19"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "text": "Besuchen Sie gerne meine Website  elektroniker.help. Dort finden Sie interessante Informationen, praktische Projekte und Erfahrungsberichte rund um Meshtastic, Elektronik und 3D-Druck.",
-    "time": "10:45:00"
-  },
-  {
-    "kind": "rx",
-    "sender": "Elektroniker",
-    "text": "Test",
-    "time": "11:01:11"
-  },
-  {
-    "kind": "rx",
-    "sender": "Meshtastic 8668",
-    "text": "👍🏻",
-    "time": "11:07:16"
+    "node_id": "!1300faf0",
+    "text": "17. Juni, 12:28\\nKanalauslastung: 26.1%",
+    "time": "12:54:03",
+    "chat_id": "!1300faf0",
+    "chat_type": "dm",
+    "chat_name": "Orion9 mobil"
   },
   {
     "kind": "me",
-    "sender": "Flint Base",
-    "text": "Test",
-    "time": "13:47:56"
+    "sender": "Flint Base → Elektroniker",
+    "node_id": "!067a40fa",
+    "text": "Test toElek",
+    "time": "14:33:50",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
   },
   {
     "kind": "rx",
-    "sender": "Flint TAP2",
-    "text": "Test1",
-    "time": "14:05:07"
-  },
-  {
-    "kind": "rx",
-    "sender": "!d4334334",
+    "sender": "Meshtastic 4334",
     "node_id": "!d4334334",
-    "text": "Hello oje in Nürnberg noch alles da",
-    "time": "17:01:20"
+    "text": "2️⃣",
+    "time": "14:50:05",
+    "chat_id": "!d4334334",
+    "chat_type": "dm",
+    "chat_name": "Meshtastic 4334"
   },
   {
     "kind": "rx",
-    "sender": "!1c54bf9c",
+    "sender": "Meshtastic bf9c",
     "node_id": "!1c54bf9c",
-    "text": "Zur Vodafone Störung sagt Vodafone nur: ist bekannt, Behebung kann bis zu 12 Stunden dauern. Ja. Z W Ö L F. Stunden. WTF?",
-    "time": "17:10:07"
-  },
-  {
-    "kind": "rx",
-    "sender": "Oststadt ☀️🔋",
-    "node_id": "!297ae295",
-    "text": "Mobilfunk auch ausgefallen?",
-    "time": "17:14:18"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test",
-    "time": "22:36:15"
-  },
-  {
-    "kind": "rx",
-    "sender": "!1ba58668",
-    "node_id": "!1ba58668",
-    "text": "👍🏻",
-    "time": "22:37:48"
+    "text": "Sorry, 6 hops nicht 2, ori9",
+    "time": "14:54:12",
+    "chat_id": "!1c54bf9c",
+    "chat_type": "dm",
+    "chat_name": "Meshtastic bf9c"
   },
   {
     "kind": "rx",
     "sender": "Orion9 mobil",
     "node_id": "!1300faf0",
-    "text": "🥬",
-    "time": "22:42:01"
-  },
-  {
-    "kind": "rx",
-    "sender": "node 1867617448",
-    "node_id": "",
-    "text": "Your Test OK i can you ready hier in Germany",
-    "time": "06:33:31"
-  },
-  {
-    "kind": "rx",
-    "sender": "SYSTEM ERROR",
-    "node_id": "",
-    "text": "send: No Serial Meshtastic device detected, attempting TCP connection on localhost.\nError connecting to localhost:[Errno 111] Connection refused",
-    "time": "10:49:00"
-  },
-  {
-    "kind": "rx",
-    "sender": "SYSTEM ERROR",
-    "node_id": "",
-    "text": "send: Command '['/home/flint/.local/bin/meshtastic', '--ch-index', '0', '--sendtext', 'Test']' timed out after 60 seconds",
-    "time": "12:30:47"
-  },
-  {
-    "kind": "rx",
-    "sender": "SYSTEM ERROR",
-    "node_id": "",
-    "text": "send: Traceback (most recent call last):\n  File \"/home/flint/.local/bin/meshtastic\", line 8, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/__main__.py\", line 2260, in main\n    common()\n    ~~~~~~^^\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/__main__.py\", line 1438, in common\n    client = meshtastic.serial_interface.SerialInterface(\n        args.port,\n    ...<3 lines>...\n        timeout=args.timeout,\n    )\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/serial_interface.py\", line 68, in __init__\n    StreamInterface.__init__(\n    ~~~~~~~~~~~~~~~~~~~~~~~~^\n        self, debugOut=debugOut, noProto=noProto, connectNow=connectNow, noNodes=noNodes, timeout=timeout\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n    )\n    ^\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/stream_interface.py\", line 64, in __init__\n    self.connect()\n    ~~~~~~~~~~~~^^\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/stream_interface.py\", line 88, in connect\n    self._waitConnected()\n    ~~~~~~~~~~~~~~~~~~~^^\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/mesh_interface.py\", line 1129, in _waitConnected\n    raise MeshInterface.MeshInterfaceError(\n        \"Timed out waiting for connection completion\"\n    )\nmeshtastic.mesh_interface.MeshInterface.MeshInterfaceError: Timed out waiting for connection completion",
-    "time": "13:13:33"
-  },
-  {
-    "kind": "rx",
-    "sender": "SYSTEM ERROR",
-    "node_id": "",
-    "text": "send: Traceback (most recent call last):\n  File \"/home/flint/.local/bin/meshtastic\", line 8, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/__main__.py\", line 2260, in main\n    common()\n    ~~~~~~^^\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/__main__.py\", line 1438, in common\n    client = meshtastic.serial_interface.SerialInterface(\n        args.port,\n    ...<3 lines>...\n        timeout=args.timeout,\n    )\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/serial_interface.py\", line 68, in __init__\n    StreamInterface.__init__(\n    ~~~~~~~~~~~~~~~~~~~~~~~~^\n        self, debugOut=debugOut, noProto=noProto, connectNow=connectNow, noNodes=noNodes, timeout=timeout\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n    )\n    ^\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/stream_interface.py\", line 64, in __init__\n    self.connect()\n    ~~~~~~~~~~~~^^\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/stream_interface.py\", line 88, in connect\n    self._waitConnected()\n    ~~~~~~~~~~~~~~~~~~~^^\n  File \"/home/flint/.local/lib/python3.13/site-packages/meshtastic/mesh_interface.py\", line 1129, in _waitConnected\n    raise MeshInterface.MeshInterfaceError(\n        \"Timed out waiting for connection completion\"\n    )\nmeshtastic.mesh_interface.MeshInterface.MeshInterfaceError: Timed out waiting for connection completion",
-    "time": "13:14:38"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "test",
-    "time": "13:26:14"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test",
-    "time": "15:49:28"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "text": "Test",
-    "time": "16:28:16"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test",
-    "time": "16:32:49"
-  },
-  {
-    "kind": "rx",
-    "sender": "FMG Kalchreuth-Bayern 🕊",
-    "node_id": "!3b46b984",
-    "text": "Hoch die Hände Wochenende",
-    "time": "16:48:18"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test",
-    "time": "21:06:23"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test",
-    "time": "21:26:57"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test2",
-    "time": "22:24:06"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test3",
-    "time": "22:39:50"
-  },
-  {
-    "kind": "rx",
-    "sender": "FMG Kalchreuth-Bayern 🕊",
-    "node_id": "!3b46b984",
-    "text": "👍🏻",
-    "time": "22:41:41"
-  },
-  {
-    "kind": "rx",
-    "sender": "FMG Kalchreuth-Bayern 🕊",
-    "node_id": "!3b46b984",
-    "text": "👍🏻",
-    "time": "22:41:58"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test",
-    "time": "15:43:05"
-  },
-  {
-    "kind": "rx",
-    "sender": "Meshtastic 8668",
-    "node_id": "!1ba58668",
-    "text": "Test",
-    "time": "16:02:39"
-  },
-  {
-    "kind": "rx",
-    "sender": "Meshtastic 8668",
-    "node_id": "!1ba58668",
-    "text": "Hey, ich bin auch neu zu dem ganzen Lora Ding",
-    "time": "16:08:10"
-  },
-  {
-    "kind": "rx",
-    "sender": "Elektroniker",
-    "node_id": "!1fa065f0",
     "text": "👍",
-    "time": "16:16:00"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test",
-    "time": "16:31:28"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test1",
-    "time": "17:25:15"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test2",
-    "time": "17:49:29"
-  },
-  {
-    "kind": "rx",
-    "sender": "Elektroniker",
-    "node_id": "!1fa065f0",
-    "text": "Test",
-    "time": "17:49:58"
+    "time": "14:55:23",
+    "chat_id": "!1300faf0",
+    "chat_type": "dm",
+    "chat_name": "Orion9 mobil"
   },
   {
     "kind": "rx",
     "sender": "Orion9 mobil",
     "node_id": "!1300faf0",
-    "text": "3️⃣",
-    "time": "19:13:28"
+    "text": "👍",
+    "time": "15:07:19",
+    "chat_id": "!1300faf0",
+    "chat_type": "dm",
+    "chat_name": "Orion9 mobil"
   },
   {
     "kind": "rx",
-    "sender": "node 4140639624",
-    "node_id": "",
-    "text": "guten Abend",
-    "time": "19:30:35"
+    "sender": "Meshtastic f79c",
+    "node_id": "!e2e4f79c",
+    "text": "2️⃣",
+    "time": "15:30:34",
+    "chat_id": "!e2e4f79c",
+    "chat_type": "dm",
+    "chat_name": "Meshtastic f79c"
   },
   {
     "kind": "rx",
-    "sender": "!f6cd2588",
-    "node_id": "!f6cd2588",
-    "text": "test",
-    "time": "21:05:50"
+    "sender": "Meshtastic 95f4",
+    "node_id": "!009e95f4",
+    "text": "👍",
+    "time": "15:43:03",
+    "chat_id": "!009e95f4",
+    "chat_type": "dm",
+    "chat_name": "Meshtastic 95f4"
   },
   {
     "kind": "rx",
-    "sender": "SYSTEM ERROR",
-    "node_id": "",
-    "text": "send: No Serial Meshtastic device detected, attempting TCP connection on localhost.\nError connecting to localhost:[Errno 111] Connection refused",
-    "time": "21:13:19"
-  },
-  {
-    "kind": "rx",
-    "sender": "SYSTEM ERROR",
-    "node_id": "",
-    "text": "send: Command '['/home/flint/.local/bin/meshtastic', '--ch-index', '0', '--sendtext', 'Test1']' timed out after 60 seconds",
-    "time": "13:03:20"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test1",
-    "time": "13:05:26"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test2",
-    "time": "13:05:50"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test2",
-    "time": "13:08:01"
-  },
-  {
-    "kind": "rx",
-    "sender": "Orion9 mobil",
-    "node_id": "!1300faf0",
-    "text": "3️⃣",
-    "time": "13:08:39"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test4",
-    "time": "13:10:22"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test5",
-    "time": "13:13:28"
+    "sender": "Meshtastic 94a8",
+    "node_id": "!6f5194a8",
+    "text": "Endlich Feierabend",
+    "time": "16:01:05",
+    "chat_id": "!6f5194a8",
+    "chat_type": "dm",
+    "chat_name": "Meshtastic 94a8"
   },
   {
     "kind": "rx",
     "sender": "Elektroniker",
     "node_id": "!1fa065f0",
-    "text": "Test00",
-    "time": "13:54:25"
-  },
-  {
-    "kind": "rx",
-    "sender": "Meshtastic 2588",
-    "node_id": "!f6cd2588",
-    "text": "sehr frisch hier oben und sehr windig",
-    "time": "15:23:29"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test2",
-    "time": "16:16:26"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test3",
-    "time": "16:20:47"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test",
-    "time": "22:03:44"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test1",
-    "time": "23:07:50"
+    "text": "Test12",
+    "time": "16:30:45",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
   },
   {
     "kind": "rx",
     "sender": "Elektroniker",
     "node_id": "!1fa065f0",
-    "text": "Test 2",
-    "time": "23:08:28"
+    "text": "Direct to LongFast",
+    "time": "17:15:53",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Flint TAP2",
+    "node_id": "!067a40fa",
+    "text": "Direct to Flint TAP2",
+    "time": "17:17:35",
+    "chat_id": "!756f9960",
+    "chat_type": "dm",
+    "chat_name": "Flint TAP2"
+  },
+  {
+    "kind": "rx",
+    "sender": "Elektroniker",
+    "node_id": "!1fa065f0",
+    "text": "Direct to LongFast",
+    "time": "17:23:35",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
+  },
+  {
+    "kind": "rx",
+    "sender": "Elektroniker",
+    "node_id": "!1fa065f0",
+    "text": "Test to LongFast1",
+    "time": "17:37:54",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Flint_Echo",
+    "node_id": "!067a40fa",
+    "text": "Direct to Elektroniker",
+    "time": "17:38:41",
+    "chat_id": "!b0f14d2a",
+    "chat_type": "dm",
+    "chat_name": "Flint_Echo"
+  },
+  {
+    "kind": "rx",
+    "sender": "Elektroniker",
+    "node_id": "!1fa065f0",
+    "text": "Test to LongFast2",
+    "time": "17:43:42",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "rx",
+    "sender": "Elektroniker",
+    "node_id": "!1fa065f0",
+    "text": "Test to LongFast3",
+    "time": "17:45:55",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "rx",
+    "sender": "Elektroniker",
+    "node_id": "!1fa065f0",
+    "text": "Test to LongFast4",
+    "time": "17:48:38",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "rx",
+    "sender": "Elektroniker",
+    "node_id": "!1fa065f0",
+    "text": "Direct to LongFast",
+    "time": "17:48:57",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
   },
   {
     "kind": "rx",
     "sender": "Flint TAP2",
     "node_id": "!756f9960",
     "text": "Test",
-    "time": "23:11:27"
+    "time": "17:49:39",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
   },
   {
     "kind": "rx",
-    "sender": "Orion9 mobil",
-    "node_id": "!1300faf0",
-    "text": "1️⃣",
-    "time": "23:12:36"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test",
-    "time": "23:40:34"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Guten Morgen",
-    "time": "06:57:25"
-  },
-  {
-    "kind": "rx",
-    "sender": "Orion9 mobil",
-    "node_id": "!1300faf0",
-    "text": "Moin",
-    "time": "07:03:37"
-  },
-  {
-    "kind": "rx",
-    "sender": "Orion9 mobil",
-    "node_id": "!1300faf0",
-    "text": "Moin",
-    "time": "07:04:11"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test1",
-    "time": "08:15:16"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test2",
-    "time": "08:45:12"
+    "sender": "Flint TAP2",
+    "node_id": "!756f9960",
+    "text": "T",
+    "time": "17:50:19",
+    "chat_id": "!756f9960",
+    "chat_type": "dm",
+    "chat_name": "Flint TAP2"
   },
   {
     "kind": "rx",
     "sender": "Elektroniker",
     "node_id": "!1fa065f0",
     "text": "Test",
-    "time": "08:45:28"
+    "time": "17:59:13",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "rx",
+    "sender": "Elektroniker",
+    "node_id": "!1fa065f0",
+    "text": "Test1",
+    "time": "18:00:09",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
   },
   {
     "kind": "rx",
     "sender": "Flint TAP2",
     "node_id": "!756f9960",
-    "text": "Guten Morgen",
-    "time": "09:06:00"
-  },
-  {
-    "kind": "rx",
-    "sender": "SYSTEM ERROR",
-    "node_id": "",
-    "text": "send timeout after 30 seconds",
-    "time": "15:53:25"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
     "text": "Test",
-    "time": "16:20:52"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test2",
-    "time": "16:37:09"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test",
-    "time": "17:25:29"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test2",
-    "time": "21:30:51"
-  },
-  {
-    "kind": "rx",
-    "sender": "Meshtastic c644",
-    "node_id": "!02eac644",
-    "text": "👋",
-    "time": "21:31:37"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Guten Abend",
-    "time": "20:41:32"
-  },
-  {
-    "kind": "rx",
-    "sender": "Meshtastic be33",
-    "node_id": "!0a23be33",
-    "text": "Ping 🏓 ICE 803 Berlin-Augsburg",
-    "time": "20:45:03"
-  },
-  {
-    "kind": "rx",
-    "sender": "Meshtastic be33",
-    "node_id": "!0a23be33",
-    "text": "Ping 🏓 ICE 803 Berlin-Augsburg",
-    "time": "20:45:41"
-  },
-  {
-    "kind": "me",
-    "sender": "Flint Base",
-    "node_id": "!067a40fa",
-    "text": "Test",
-    "time": "07:35:21"
-  },
-  {
-    "kind": "rx",
-    "sender": "EKT VME290",
-    "node_id": "!b0f14d2a",
-    "text": "Test",
-    "time": "08:05:02"
-  },
-  {
-    "kind": "rx",
-    "sender": "EKT VME290",
-    "node_id": "!b0f14d2a",
-    "text": "Test2",
-    "time": "08:05:53"
-  },
-  {
-    "kind": "rx",
-    "sender": "Orion9 mobil",
-    "node_id": "!1300faf0",
-    "text": "1️⃣",
-    "time": "08:11:42"
+    "time": "18:00:58",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
   }
 ]
