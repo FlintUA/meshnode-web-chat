@@ -3,8 +3,8 @@
     "id": "channel",
     "name": "LongFast Channel 0",
     "type": "channel",
-    "last_message": "Test",
-    "last_time": "18:00:58",
+    "last_message": "1️⃣",
+    "last_time": "21:36:31",
     "unread": 0
   },
   "!067a40fa": {
@@ -21,14 +21,6 @@
     "type": "dm",
     "last_message": "👍",
     "last_time": "15:07:19",
-    "unread": 0
-  },
-  "!0e8b3cf6": {
-    "id": "!0e8b3cf6",
-    "name": "StS_Erl_fix",
-    "type": "dm",
-    "last_message": "",
-    "last_time": "",
     "unread": 0
   },
   "!51fbf9c": {
@@ -407,14 +399,6 @@
     "last_time": "",
     "unread": 0
   },
-  "!747497c1": {
-    "id": "!747497c1",
-    "name": "DFS Node 1",
-    "type": "dm",
-    "last_message": "",
-    "last_time": "",
-    "unread": 0
-  },
   "!433bf8ac": {
     "id": "!433bf8ac",
     "name": "schadsi",
@@ -479,25 +463,9 @@
     "last_time": "",
     "unread": 0
   },
-  "!9e7882d4": {
-    "id": "!9e7882d4",
-    "name": "Tequila Node 2",
-    "type": "dm",
-    "last_message": "",
-    "last_time": "",
-    "unread": 0
-  },
   "!433efd18": {
     "id": "!433efd18",
     "name": "Meshtastic fd18",
-    "type": "dm",
-    "last_message": "",
-    "last_time": "",
-    "unread": 0
-  },
-  "!43b7a5b4": {
-    "id": "!43b7a5b4",
-    "name": "Meshtastic a5b4",
     "type": "dm",
     "last_message": "",
     "last_time": "",
@@ -531,8 +499,8 @@
     "id": "!756f9960",
     "name": "Flint TAP2",
     "type": "dm",
-    "last_message": "T",
-    "last_time": "17:50:19",
+    "last_message": "2",
+    "last_time": "21:09:03",
     "unread": 0
   },
   "!433dbbb4": {
@@ -570,6 +538,30 @@
   "!9e77f6e8": {
     "id": "!9e77f6e8",
     "name": "Tequila Node",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!9ee6b8fc": {
+    "id": "!9ee6b8fc",
+    "name": "CS🍀",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!1dd2a0bc": {
+    "id": "!1dd2a0bc",
+    "name": "daa792-a0bc",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!a1e9bf3f": {
+    "id": "!a1e9bf3f",
+    "name": "StS_Erl_fix",
     "type": "dm",
     "last_message": "",
     "last_time": "",
