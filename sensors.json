@@ -1,1 +1,13 @@
- 
+ cat > sensors.json << 'EOF'
+{
+  "temperature": null,
+  "humidity": null,
+  "pressure": null,
+  "voltage": null,
+  "current": null,
+  "power": null,
+  "battery_percent": null,
+  "air_quality": null,
+  "last_update": null
+}
+EOF
