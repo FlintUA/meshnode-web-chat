@@ -3,8 +3,8 @@
     "id": "channel",
     "name": "LongFast Channel 0",
     "type": "channel",
-    "last_message": "3️⃣",
-    "last_time": "23:17:03",
+    "last_message": "send: OS Error:\n  The serial device couldn't be opened, it might be in use by another process.\n  Ple",
+    "last_time": "08:24:42",
     "unread": 0
   },
   "!067a40fa": {
@@ -19,24 +19,24 @@
     "id": "!b0f14d2a",
     "name": "Flint_Echo",
     "type": "dm",
-    "last_message": "okay",
-    "last_time": "23:13:12",
+    "last_message": "Test sending a message🚑",
+    "last_time": "08:02:32",
     "unread": 0
   },
   "!756f9960": {
     "id": "!756f9960",
     "name": "Flint TAP2",
     "type": "dm",
-    "last_message": "ok",
-    "last_time": "23:14:06",
+    "last_message": "🔦",
+    "last_time": "07:48:47",
     "unread": 0
   },
   "!1fa065f0": {
     "id": "!1fa065f0",
     "name": "Elektroniker",
     "type": "dm",
-    "last_message": "",
-    "last_time": "",
+    "last_message": "Test sending a Message🚲",
+    "last_time": "08:32:16",
     "unread": 0
   },
   "!1300faf0": {
@@ -138,14 +138,6 @@
   "!e2e4f79c": {
     "id": "!e2e4f79c",
     "name": "mArv_LF",
-    "type": "dm",
-    "last_message": "",
-    "last_time": "",
-    "unread": 0
-  },
-  "!66e715a0": {
-    "id": "!66e715a0",
-    "name": "AN_JB",
     "type": "dm",
     "last_message": "",
     "last_time": "",
@@ -274,14 +266,6 @@
   "!433dbbb4": {
     "id": "!433dbbb4",
     "name": "ER HeltecV3",
-    "type": "dm",
-    "last_message": "",
-    "last_time": "",
-    "unread": 0
-  },
-  "!9ea2083c": {
-    "id": "!9ea2083c",
-    "name": "MischastikBDF",
     "type": "dm",
     "last_message": "",
     "last_time": "",
@@ -719,17 +703,33 @@
     "last_time": "",
     "unread": 0
   },
-  "!19ee6b8fc": {
-    "id": "!19ee6b8fc",
-    "name": "Erlangen WOK1",
+  "!3df8efc4": {
+    "id": "!3df8efc4",
+    "name": "Deutenbach Solar efc4",
     "type": "dm",
     "last_message": "",
     "last_time": "",
     "unread": 0
   },
-  "!3df8efc4": {
-    "id": "!3df8efc4",
-    "name": "Deutenbach Solar efc4",
+  "!9e75593c": {
+    "id": "!9e75593c",
+    "name": "MM1",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!25e8b2d0": {
+    "id": "!25e8b2d0",
+    "name": "MeshtasticJP2",
+    "type": "dm",
+    "last_message": "",
+    "last_time": "",
+    "unread": 0
+  },
+  "!19ee6b8fc": {
+    "id": "!19ee6b8fc",
+    "name": "Erlangen WOK1",
     "type": "dm",
     "last_message": "",
     "last_time": "",

@@ -288,5 +288,185 @@
     "chat_id": "channel",
     "chat_type": "channel",
     "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base",
+    "node_id": "!067a40fa",
+    "text": "Guten Morgen. Es werden sehr hohe Temperaturen erwartet.",
+    "time": "06:44:11",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Flint TAP2",
+    "node_id": "!067a40fa",
+    "text": "test 💡",
+    "time": "06:59:03",
+    "chat_id": "!756f9960",
+    "chat_type": "dm",
+    "chat_name": "Flint TAP2"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Flint_Echo",
+    "node_id": "!067a40fa",
+    "text": "💡тест",
+    "time": "07:01:43",
+    "chat_id": "!b0f14d2a",
+    "chat_type": "dm",
+    "chat_name": "Flint_Echo"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Flint_Echo",
+    "node_id": "!067a40fa",
+    "text": "test🧯",
+    "time": "07:06:56",
+    "chat_id": "!b0f14d2a",
+    "chat_type": "dm",
+    "chat_name": "Flint_Echo"
+  },
+  {
+    "kind": "rx",
+    "sender": "SYSTEM ERROR",
+    "node_id": "",
+    "text": "send: OS Error:\n  The serial device couldn't be opened, it might be in use by another process.\n  Please close any applications or webpages that may be using the device and try again.\n\nOriginal error: [Errno 11] Could not exclusively lock port /dev/ttyACM0: [Errno 11] Resource temporarily unavailable",
+    "time": "07:09:08",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "rx",
+    "sender": "SYSTEM ERROR",
+    "node_id": "",
+    "text": "send: OS Error:\n  The serial device couldn't be opened, it might be in use by another process.\n  Please close any applications or webpages that may be using the device and try again.\n\nOriginal error: [Errno 11] Could not exclusively lock port /dev/ttyACM0: [Errno 11] Resource temporarily unavailable",
+    "time": "07:10:41",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Flint TAP2",
+    "node_id": "!067a40fa",
+    "text": "🔦",
+    "time": "07:48:47",
+    "chat_id": "!756f9960",
+    "chat_type": "dm",
+    "chat_name": "Flint TAP2"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Flint_Echo",
+    "node_id": "!067a40fa",
+    "text": "Test💯",
+    "time": "07:49:43",
+    "chat_id": "!b0f14d2a",
+    "chat_type": "dm",
+    "chat_name": "Flint_Echo"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base",
+    "node_id": "!067a40fa",
+    "text": "Test to LongFast Channel",
+    "time": "07:54:02",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base",
+    "node_id": "!067a40fa",
+    "text": "☀️",
+    "time": "07:55:34",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Elektroniker",
+    "node_id": "!067a40fa",
+    "text": "Send Test Message👋",
+    "time": "07:58:50",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Flint_Echo",
+    "node_id": "!067a40fa",
+    "text": "Test sending a message🚑",
+    "time": "08:02:32",
+    "chat_id": "!b0f14d2a",
+    "chat_type": "dm",
+    "chat_name": "Flint_Echo"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Elektroniker",
+    "node_id": "!067a40fa",
+    "text": "Test😊",
+    "time": "08:12:49",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Elektroniker",
+    "node_id": "!067a40fa",
+    "text": "Test sending a Message🛩️",
+    "time": "08:19:59",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
+  },
+  {
+    "kind": "rx",
+    "sender": "SYSTEM ERROR",
+    "node_id": "",
+    "text": "send: OS Error:\n  The serial device couldn't be opened, it might be in use by another process.\n  Please close any applications or webpages that may be using the device and try again.\n\nOriginal error: [Errno 11] Could not exclusively lock port /dev/ttyACM0: [Errno 11] Resource temporarily unavailable",
+    "time": "08:24:42",
+    "chat_id": "channel",
+    "chat_type": "channel",
+    "chat_name": "LongFast Channel 0"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Elektroniker",
+    "node_id": "!067a40fa",
+    "text": "Test sending a Message🚜",
+    "time": "08:25:01",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Elektroniker",
+    "node_id": "!067a40fa",
+    "text": "Test sending a Message🛩️",
+    "time": "08:25:20",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
+  },
+  {
+    "kind": "me",
+    "sender": "Flint Base → Elektroniker",
+    "node_id": "!067a40fa",
+    "text": "Test sending a Message🚲",
+    "time": "08:32:16",
+    "chat_id": "!1fa065f0",
+    "chat_type": "dm",
+    "chat_name": "Elektroniker"
   }
 ]
